@@ -1,0 +1,19 @@
+.slider {
+
+  margin-top: 10px;
+
+}
+
+.slider__img {
+  height: 150px;
+  cursor: pointer;
+
+}
+
+.show-full-img {
+  width: 200px;
+}
+
+.show-full-img img {
+  width: 100%;
+}
